@@ -1,5 +1,3 @@
-## Function makeCacheMatreix cache's the inverse of a matrix passed to it as an argument
-
 ## Function makeCacheMatreix creates a special "matrix", which is a list containing a functions to
 ## 1. set the value of the vector
 ## 2. get the value of the vector
